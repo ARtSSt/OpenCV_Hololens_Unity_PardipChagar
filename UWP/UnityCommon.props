@@ -1,9 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
-        <UnityWSASolutionName>Contour Detection</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\pardi\Documents\ARTSST\Pardip\HoloPlugin\UWP\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\pardi\Documents\ARTSST\Pardip\HoloPlugin\HoloLensCameraStream-master\HoloLensCameraStream-master\HoloLensVideoCaptureExample\</UnityProjectDir>
-        <UnityWSAPlayerDir>$(UnityWSASolutionDir)</UnityWSAPlayerDir>
-        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
-    </PropertyGroup>
-</Project>

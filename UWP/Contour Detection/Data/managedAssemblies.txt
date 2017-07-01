@@ -1,8 +1,0 @@
-Assembly-CSharp.dll
-nunit.framework.dll
-UnityEngine.UI.dll
-UnityEngine.HoloLens.dll
-HololensIO.dll
-UnityEngine.Networking.dll
-HoloLensCameraStream.dll
-UnityEngine.VR.dll
