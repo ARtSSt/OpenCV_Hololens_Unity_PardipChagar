@@ -1,0 +1,7 @@
+opencv_core310.dll
+MicStreamSelector.dll
+SharingClient.dll
+opencv_imgproc310.dll
+HoloPlugin.dll
+SpatialUnderstanding.dll
+PlaneFinding.dll
